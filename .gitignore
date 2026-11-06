@@ -1,0 +1,7 @@
+*.csv
+.venv/
+.vscode/
+__pycache__/
+.env.*
+.env
+.ipynb_checkpoints/
